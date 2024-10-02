@@ -7,9 +7,11 @@ float fineRate, fineAmount;
 
 printf("Enter Book ID: ");
 scanf("%d", &bookID);
-printf("Enter Due Date (as an integer): ");
+
+printf("Enter Due Date: ");
 scanf("%d", &dueDate);
-printf("Enter Return Date (as an integer): ");
+
+printf("Enter Return Date: ");
 scanf("%d", &returnDate);
 
 daysOverdue = returnDate - dueDate;
