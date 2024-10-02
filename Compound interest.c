@@ -8,10 +8,13 @@ int n, t;
 
 printf("Enter the principal amount (P): ");
 scanf("%lf", &P);
+
 printf("Enter the annual interest rate (r) (as a percentage): ");
 scanf("%lf", &r);
+
 printf("Enter the number of times interest applied per time period (n): ");
 scanf("%d", &n);
+
 printf("Enter the number of time periods elapsed (t): ");
 scanf("%d", &t);
     
