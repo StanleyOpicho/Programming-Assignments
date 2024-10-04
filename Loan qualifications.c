@@ -1,4 +1,8 @@
 //Program to output loan qualification
+/*
+Author: Opicho Stanley Brimson 
+Admission No.:CT101/G/23709/24
+*/
 #include <stdio.h>
 
 int main() {
